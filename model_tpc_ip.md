@@ -8,3 +8,11 @@
 | Warstwa 3 - Sieciowa | Warstwa Sieciowa | Rozpoznaje, jakie drogi łączą poszczególne komputery |
 | Warstwa 2 - Łącza Danych | Warstwa Łącza Danych | Ma ona nadzorować jakość przekazywanych informacji. |
 | Warstwa 1 - Fizyczna | Warstwa Fizyczna | Określa ona wszystkie składniki sieci niezbędne do obsługi elektrycznego|
+|
+|Porównanie modelu OSI i TCP/IP|
+|TCP\IP:  zestaw protokołów definiujących wzajemną komunikację i wymianę danych w Internecie.||OSI: koncepcyjne ramy używane do opisywania funkcji systemu sieciowego|
+||
+|Najpopularniejsze protokoły TCP/IP||HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP, X Window|
+
+
+
